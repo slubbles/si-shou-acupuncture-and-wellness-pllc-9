@@ -1,0 +1,11 @@
+{
+  "background": "#f4f1ea",
+  "text": "#161513",
+  "muted": "#6b645b",
+  "display_font": "Georgia, 'Times New Roman', serif",
+  "body_font": "system-ui, sans-serif",
+  "radius_px": 4,
+  "hero_is_large_photo": false,
+  "motion": false,
+  "source": "editorial_default"
+}

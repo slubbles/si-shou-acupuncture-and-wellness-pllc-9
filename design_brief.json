@@ -1,0 +1,131 @@
+{
+  "lead_id": "409d801b39a745539b09f78f0b518c37",
+  "brief": {
+    "schema": "genesis_brief/v1",
+    "contact": {
+      "name": "Cesar Salem",
+      "email": "cesar@thelamedia.com",
+      "phone": null,
+      "company": "Si Shou Acupuncture and Wellness, PLLC"
+    },
+    "existing_site": {
+      "has_site": true,
+      "url": "https://acuwellnessclinic.com/",
+      "preference": "keep_bios_rebuild"
+    },
+    "brand": {
+      "name": "Si Shou Acupuncture and Wellness, PLLC",
+      "tagline": "DO THE THINGS THAT MAKE YOU HAPPY",
+      "about": "Si Shou Acupuncture and Wellness, PLLC. Acupuncture in South Austin (Oak Hill), TX. Care is centered around each individual patient and their specific needs and goals helping you achieve harmonious health. Phone (512) 387-4002. Address: 5424 W US Hwy 290 Service Rd Ste 106, Austin, TX 78735. Hours: Mon 10am-5pm, Tue 2pm-6pm, Wed 10am-5pm, Thu 10am-2pm, Fri 10am-7pm, Sat 10am-3pm, Sun closed. Practitioners Kate and Aaron. Booking via Optimantra. Recent articles include eye disorders, neurological disorders, Alzheimer's, and does acupuncture hurt. Quote: Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship."
+    },
+    "reference_urls": [
+      "https://superpower.com",
+      "https://resetwellness.framer.website"
+    ],
+    "reference_source": "look_library",
+    "styles": [
+      "modern",
+      "classic",
+      "mature"
+    ],
+    "style_notes": null,
+    "colors": {
+      "mode": "designer_choose",
+      "palette": null
+    },
+    "scope": "multipage",
+    "pages": [
+      "/",
+      "/wp-json/oembed/1.0/embed",
+      "/wp-json",
+      "/wp-json/wp/v2/pages/5",
+      "/xmlrpc.php",
+      "/about-us",
+      "/our-team",
+      "/testimonials",
+      "/upcoming-events",
+      "/treatment-modalities",
+      "/blog",
+      "/what-is-acupuncture",
+      "/what-is-acupuncture/what-we-treat",
+      "/what-is-acupuncture/first-visit",
+      "/what-is-acupuncture/q-a",
+      "/clinic-forms"
+    ],
+    "consent": true,
+    "reference_looks": [
+      {
+        "id": "ref-superpower",
+        "label": "Superpower",
+        "preview_url": "https://superpower.com"
+      },
+      {
+        "id": "ref-resetwellness",
+        "label": "Reset Wellness",
+        "preview_url": "https://resetwellness.framer.website"
+      }
+    ],
+    "pages_source": "existing_site_nav",
+    "content_facts": {
+      "url": "https://acuwellnessclinic.com/",
+      "sections": [
+        {
+          "heading": "DO THE THINGS THAT MAKE YOU HAPPY"
+        },
+        {
+          "heading": "ACUPUNCTURE IN SOUTH AUSTIN (OAK HILL), TX"
+        },
+        {
+          "heading": "Are you ready to feel better?&nbsp;&nbsp;"
+        },
+        {
+          "heading": "RECENT ARTICLES"
+        },
+        {
+          "heading": "Booking"
+        },
+        {
+          "heading": "Hours"
+        }
+      ],
+      "paragraphs": [
+        "There are hundreds of different eye diseases that lead to vision loss.&nbsp; Degenerative eye diseases, from diabetic retinopathy to age-related macular degeneration, often have no cure while many others are treatable and even preventable. You can assist in your own eye health by following a healthy lifestyle and seeing your Ophthalmologist in conjunction with your [&hellip;]",
+        "Neurological disorders cover a wide swath of health issues, including: traumatic brain injuries and&nbsp;concussions, headaches, Parkinson's disease, strokes, Bell's palsy, Alzheimer's disease, seizures, and MS (just to name a few).&nbsp; According to the World Health Organization, nearly 1 billion people suffer worldwide from some sort of neurological disorder.&nbsp; What most people don't know is that [&hellip;]",
+        "June is Alzheimer\u2019s Awareness Month. Among people over 65 years old, Alzheimer\u2019s is the disease that is found to cause most cases of dementia. Dementia is the loss of cognitive function so severe it interferes with daily life and ranges in severity from the loss of memory, ability to think, reason, plan and can even [&hellip;]",
+        "This is by far the most commonly asked question by new patients. The quick answer is, it shouldn\u2019t. Dr. Stefanie might not be so willing to allow students to practice on her and we wouldn\u2019t have so many happily returning and referring patients if it hurt! There are hundreds of acupuncture points on the body. [&hellip;]",
+        "When you sign up for a full treatment plan for Peripheral Neuropathy, you will receive 20 Tibetan foot soaks at no additional charge($300 value). These foot soaks help treat the neuropathy by improving the circulation in the small vessels of the feet. They definitely should be part of any treatment plan to improve a neuropathy. Enter code: PN2022 in the comments section when you sign up for an Initial Consultation and your foot soaks will be ready to go when you arrive. Also available if you book over the phone. Click here to book now.",
+        "(function() { window.mc4wp = window.mc4wp || { listeners: [], forms: { on: function(evt, cb) { window.mc4wp.listeners.push( { event : evt, callback: cb } ); } } } })(); First Name"
+      ],
+      "phones": [
+        "(512) 387-4002",
+        "1999999999"
+      ],
+      "emails": [
+        "artboard-1@sishou-1024x1024.png",
+        "artboard-1@sishou-150x150.png",
+        "artboard-1@sishou-300x300.png",
+        "artboard-1@sishou-768x768.png"
+      ],
+      "image_urls": [
+        "https://acuwellnessclinic.com/wp-content/uploads/2019/02/Artboard-1@sishou-1024x1024.png",
+        "https://acuwellnessclinic.com/wp-content/uploads/2019/02/Artboard-1@sishou-300x300.png",
+        "https://acuwellnessclinic.com/wp-content/uploads/2017/08/Foot-soak-300x185.jpg"
+      ],
+      "logo_urls": [
+        "https://acuwellnessclinic.com/wp-content/uploads/2019/02/Artboard-1@sishou-1024x1024.png",
+        "https://acuwellnessclinic.com/wp-content/uploads/2019/02/Artboard-1@sishou-300x300.png"
+      ]
+    },
+    "look_tokens": {
+      "background": "#f4f1ea",
+      "text": "#161513",
+      "muted": "#6b645b",
+      "display_font": "Georgia, 'Times New Roman', serif",
+      "body_font": "system-ui, sans-serif",
+      "radius_px": 4,
+      "hero_is_large_photo": false,
+      "motion": false,
+      "source": "editorial_default"
+    }
+  }
+}

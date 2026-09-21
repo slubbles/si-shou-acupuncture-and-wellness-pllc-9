@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "executor": "grok_build",
+  "job_id": 9,
+  "project_id": 9,
+  "task_preview": "[look_library] Visual refs were auto-selected from past approved previews. Match LAYOUT/VIBE only \u2014 brand name, copy, services, and cities must come from DESIGN_BRIEF.md for THIS lead. Do not copy prior client trademarks.\n[PLAYBOOK_FORCE_LOADED] title=Real client website rebuild: content-first IA \u2192 local media \u2192 Space \u2192 N8N \u2192 QA\nPLAYBOOK_MARKER=client_site_rebuild_doctrine_v4\nS3: Follow this playb",
+  "created_at": "2026-09-21T15:05:39+00:00",
+  "updated_at": "2026-09-21T15:05:39+00:00",
+  "status": "running",
+  "resume": false,
+  "resume_from": null,
+  "auth_mode": "piped_openai",
+  "stages": [
+    {
+      "id": "prepare",
+      "label": "Prepare workdir & session",
+      "status": "done",
+      "updated_at": "2026-09-21T15:05:39+00:00",
+      "note": "workdir ready"
+    },
+    {
+      "id": "craft",
+      "label": "Specialist craft (Grok Build CLI)",
+      "status": "active",
+      "kind": "craft",
+      "updated_at": "2026-09-21T15:05:39+00:00"
+    },
+    {
+      "id": "finalize",
+      "label": "Stabilize DEPLOY_URL & result",
+      "status": "pending"
+    }
+  ],
+  "current_stage": "craft",
+  "deploy_url": null,
+  "cli_runs": 0,
+  "rule": "S6 richer Grok job: staged envelope + mid-run progress + stable DEPLOY_URL; SuperGrok session default; same project_id/workdir for resume. One CLI is one craft; STAGE/STEP text is hints, not extra crafts."
+}
